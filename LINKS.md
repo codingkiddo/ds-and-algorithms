@@ -1,0 +1,10 @@
+https://www.google.com/search?q=uber+developer&rlz=1C5CHFA_enIN987IN987&oq=uber+develo&aqs=chrome.1.0i20i263i512j0i512j69i57j0i512j0i457i512j69i60l3.12597j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=swiggy+developer&rlz=1C5CHFA_enIN987IN987&oq=swiggy+developer&aqs=chrome..69i57j0i512j0i457i512j0i512l3j0i22i30l4.6595j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=zomato+developer&rlz=1C5CHFA_enIN987IN987&oq=zomato+developer&aqs=chrome..69i57j0i20i263i512j0i512l4j0i457i512j0i390.3823j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=ebay+developer&rlz=1C5CHFA_enIN987IN987&sxsrf=ALiCzsYh-QpYJZGyHUKH1KDSyCZC-gfn-w:1652343586330&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjmhIrEw9n3AhV4kZUCHRBDCQwQ_AUoA3oECAIQBQ&biw=1440&bih=686&dpr=1#imgrc=QTqbOVmYAsuAUM
+https://www.google.com/search?q=facebook+developer&rlz=1C5CHFA_enIN987IN987&oq=facebook+developer&aqs=chrome..69i57j0i20i263i433i512j0i131i433i512j0i67l2j69i65l3.4034j0j7&sourceid=chrome&ie=UTF-8
+https://www.youtube.com/results?search_query=system+design+interview
+https://www.youtube.com/results?search_query=coding+interview
+https://github.com/search?q=coding+interview&type=Repositories
+https://github.com/jwasham/coding-interview-university
+https://github.com/codingkiddo/ds-and-algorithms
